@@ -1,1 +1,0 @@
-text = fileread("C:\Users\user1\PycharmProjects\gonginter\morph test negative 1.txt")
